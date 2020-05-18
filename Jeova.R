@@ -1,0 +1,1 @@
+print("Kon'nichiwa sekai")
